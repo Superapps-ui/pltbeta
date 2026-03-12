@@ -7,6 +7,6 @@
 pkg update && pkg upgrade -y
 pkg install python -y
 pip install colorama
-git clone https://github.com/твой_ник/perxilitt
-cd perxilitt
+git clone https://github.com/Superapps-ui/pltbeta
+cd pltbeta
 python pltbeta.py

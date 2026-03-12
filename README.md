@@ -49,3 +49,8 @@ python pltfull.py
 @rne_ghosty
 
 ```
+
+# НАВСЕГДА VIP
+``` bash
+V7XXA
+```

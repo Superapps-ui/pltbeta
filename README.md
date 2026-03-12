@@ -5,13 +5,13 @@
 
 # Установка в Termux
 
-```bash
+```
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install colorama
 git clone https://github.com/tvoy_nick/pltfull
 cd pltfull
-python pltfull.py
+python pltfull.py или python pltbeta.py
 ```
 
 # Как работает

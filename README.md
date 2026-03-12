@@ -9,7 +9,7 @@
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install colorama
-git clone https://github.com/tvoy_nick/pltfull
+git clone https://github.com/superapps-ui/pltfull
 cd pltfull
 python pltfull.py или python pltbeta.py
 ```
